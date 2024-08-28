@@ -8,7 +8,7 @@ metadata:
 spec:
   project: production
   source:
-    path: kustomize/overlays/production
+    path: argo-combined-demo/argo-cd/overlays/production
     repoURL: https://github.com/Vinayak-ojha47/argo-combined-app
     targetRevision: HEAD
     kustomize:
